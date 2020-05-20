@@ -1,3 +1,3 @@
 module.exports = {
-    url: '"mongodb://mongo:27017/userapidb'
+    url: '"mongodb://mongo:27017/apiuser'
 }
